@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Sakshi3028
-- 👀 I’m interested in ..web developnment.
-- 🌱 I’m currently learning .btech(ctis)..
-- 💞️ I’m looking to collaborate on ..github team.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+this is my new repository
+<br/>
+student - sakshi kumari
 
 <!---
 Sakshi3028/Sakshi3028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
